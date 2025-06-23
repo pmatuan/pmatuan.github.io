@@ -1,9 +1,9 @@
 # Test Document
 
-So, this sentence starts with "So" which write-good will flag.
+This sentence starts properly without "So".
 
-This sentence is very very very repetitive and should be detected.
+This sentence avoids repetitive words.
 
-The document was written by someone (passive voice).
+Someone wrote the document (active voice).
 
-This sentence utilizes complex terminology when simpler words would suffice.
+This sentence uses simple terminology.
