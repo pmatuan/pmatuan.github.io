@@ -11,5 +11,5 @@ runs:
       shell: bash
     - run: |
         echo "Checking markdown files..."
-        find . -name "*.md" -exec write-good {} \; || true
+        find . -name "*.md" -exec write-good {} \;
       shell: bash
