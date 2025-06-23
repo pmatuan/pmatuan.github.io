@@ -1,5 +1,9 @@
-# This is an example
+# Test Document
 
-Basically, this document is very simple and really just tries to demonstrate how the tool works. It was decided that this might be a good way to show some problems.
+So, this sentence starts with "So" which write-good will flag.
 
-Obviously, it is important to actually write good content. You should just avoid things that are sort of vague.
+This sentence is very very very repetitive and should be detected.
+
+The document was written by someone (passive voice).
+
+This sentence utilizes complex terminology when simpler words would suffice.
