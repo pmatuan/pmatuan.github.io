@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Hello from shell script"
-echo $USER
+echo "Hello shell script from Tuan Phan"
